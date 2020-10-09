@@ -1,0 +1,12 @@
+.box-sizing {
+  box-sizing: border-box;
+}
+
+@keyframes nxx {
+  0% {
+     left: 0;
+  }
+  100% {
+    left: 100%
+  }
+}
